@@ -1,0 +1,23 @@
+.blok{
+    margin-top: 100px;
+    background-color: rgba(0, 0, 0 ,0.5);
+    width: 500px;
+    height: 600px;
+    border-radius: 20px;
+    margin-bottom: 500px;
+}
+.asd{
+    width: 80%;
+    margin-top: 30px;
+}
+input{
+    color: white;
+    padding-left: 20px;
+}
+.asdasd{
+    width: 400px ;
+    height: 50px ;
+    background-color: green;
+    border-radius: 5px;
+    text-align: center;
+}
